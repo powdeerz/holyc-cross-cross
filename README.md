@@ -7,7 +7,6 @@ This project is an homage to the electrical engineer, computer programmer and ou
 Terry's trajectory is a painful reminder of the importance of mental health awareness and support, especially severe disorders such as schizophrenia. 
 
 ## Roadmap 
-## Roadmap
 
 ### Phase 1: Core Foundation
 - [ ] Lexer and AST Parser for HolyC syntax.
@@ -30,3 +29,6 @@ Terry's trajectory is a painful reminder of the importance of mental health awar
 - [ ] Command Line Interface (CLI) driver (`holyc++ run main.hc`).
 - [ ] Language documentation and syntax specification guide.
 - [ ] Code examples and standard library snippets.
+
+## License
+This project is licensed under the MIT License - see the (LICENSE) file for details.
